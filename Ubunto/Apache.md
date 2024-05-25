@@ -1,6 +1,6 @@
 
 ## Removendo APACHE2
-===================
+
 
 
 Para remover completamente o Apache2 do seu sistema Ubuntu, você pode seguir estes passos:
